@@ -25,6 +25,5 @@ body {
   <p>This example contains some advanced CSS methods you may not have learned yet. But, we will explain these methods in a later chapter in the tutorial.</p>
 </div>
 
-
 </body>
 </html>
